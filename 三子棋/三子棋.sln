@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三子棋", "三子棋\三子棋.vcxproj", "{93CCB228-C0B5-406B-860F-3B101D9A2AF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "扫雷", "扫雷\扫雷.vcxproj", "{76ED02E0-FC62-45CD-A8F2-13AB7E5378ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CCB228-C0B5-406B-860F-3B101D9A2AF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93CCB228-C0B5-406B-860F-3B101D9A2AF1}.Debug|Win32.Build.0 = Debug|Win32
+		{93CCB228-C0B5-406B-860F-3B101D9A2AF1}.Release|Win32.ActiveCfg = Release|Win32
+		{93CCB228-C0B5-406B-860F-3B101D9A2AF1}.Release|Win32.Build.0 = Release|Win32
+		{76ED02E0-FC62-45CD-A8F2-13AB7E5378ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76ED02E0-FC62-45CD-A8F2-13AB7E5378ED}.Debug|Win32.Build.0 = Debug|Win32
+		{76ED02E0-FC62-45CD-A8F2-13AB7E5378ED}.Release|Win32.ActiveCfg = Release|Win32
+		{76ED02E0-FC62-45CD-A8F2-13AB7E5378ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
